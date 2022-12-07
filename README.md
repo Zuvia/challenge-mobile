@@ -9,7 +9,7 @@
 - Funcionamento do produto entregue.
 
 ### Desafio
-- Carregar os dados de forma dinâmica utilizando a API do GitHub
+- Carregar os dados de usuário de forma dinâmica utilizando a API do GitHub
 - Carregar os repositórios do usuário inicialmente
 - Carregar os favoritos do usuário ao acessar a tab Starred
 - Fazer uma busca ao digitar e fazer o submit com "Enter"
