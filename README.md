@@ -2,8 +2,7 @@
 
 ## Manipulação de dados de usuários do github
 
-## Criar uma aplicação com suporte a api do github,
-[API de referencia](https://docs.github.com/en/rest?apiVersion=2022-11-28)
+## Criar uma aplicação com suporte a api do github [API de referencia](https://docs.github.com/en/rest?apiVersion=2022-11-28)
 
 ## O que será avaliado:
 
