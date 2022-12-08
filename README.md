@@ -4,6 +4,9 @@
 
 ## O que será avaliado:
 
+- **Responsividade.**
+- **Adptação de layout.**
+- **Clean app design.**
 - Arquitetura escolhida para desenvolvimento do teste.
 - Qualidade e simplicidade do código.
 - Funcionamento do produto entregue.
